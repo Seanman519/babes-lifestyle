@@ -41,7 +41,7 @@ const Hero = () => {
               viewport={{ once: false, amount: 0.4 }}
               className="text-white mb-8 text-center lg:text-left "
             >
-              Welcome to Neomond ! Where every meal is a celebration!
+              Welcome to Babes-LifeStyle ! Where every meal is a celebration!
             </motion.p>
             <motion.div
               variants={fadeIn("down", 0.8)}
@@ -51,7 +51,7 @@ const Hero = () => {
             >
               <div className="flex justify-center lg:justify-start">
                 <Button variant="default">
-                  <a href="https://github.com/Seanman519/neomond-apk/releases/download/v1/neo.apk" download>
+                  <a href="https://github.com/Seanman519/Babes-LifeStyle-apk/releases/download/v1/neo.apk" download>
                     Download App
                   </a>
                   <p className="text-white uppercase"></p>

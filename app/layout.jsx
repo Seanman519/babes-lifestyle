@@ -18,7 +18,7 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "Neomond",
+  title: "Babes-LifeStyle",
   description: "Our restaurent web app",
 };
 

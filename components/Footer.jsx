@@ -34,7 +34,7 @@ const Footer = () => {
                   <Link href="/">Want to learn more about us ? </Link>
                 </li>
                 <li>
-                  <Link href="/">Read about Neomond and there co workers</Link>
+                  <Link href="/">Read about Babes-LifeStyle and there co workers</Link>
                 </li>
                 <li>
                   <Link href="/">
@@ -91,7 +91,7 @@ const Footer = () => {
         </div>
         <div className="py-4 border-t border-white/10">
           <p className="text-white/60 text-center text-sm">
-            Copyright &copy; Neomond 2024 Built by Sean
+            Copyright &copy; Babes-LifeStyle 2024 Built by Sean
           </p>
         </div>
       </div>

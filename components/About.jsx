@@ -19,11 +19,11 @@ const About = () => {
         viewport={{ once: false, amount: 0.2 }}
         className="xl:pl-[135px] "
       >
-        <h1 className="mb-9">What's about Neomond</h1>
+        <h1 className="mb-9">What's about Babes-LifeStyle</h1>
         <p className="mb-8">
-          Neomond is a contemporary culinary destination that redefines the
+          Babes-LifeStyle is a contemporary culinary destination that redefines the
           dining experience through a fusion of innovation and tradition.
-          Nestled in the heart of the city, Neomond offers a tantalizing menu
+          Nestled in the heart of the city, Babes-LifeStyle offers a tantalizing menu
           curated by expert chefs who artfully blend global flavors with
           locally-sourced ingredients, ensuring each dish is a harmonious
           symphony of taste and texture.
@@ -31,7 +31,7 @@ const About = () => {
         <p className="mb-10">
           It offers a diverse menu crafted from locally-sourced ingredients and
           complemented by a selection of fine wines and craft cocktails. With
-          its focus on culinary excellence and modern flair, Neomond promises a
+          its focus on culinary excellence and modern flair, Babes-LifeStyle promises a
           memorable dining experience for every guest
         </p>
         <div className="pt-8 mb-8">
