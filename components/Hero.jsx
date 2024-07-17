@@ -51,7 +51,7 @@ const Hero = () => {
             >
               <div className="flex justify-center lg:justify-start">
                 <Button variant="default">
-                  <a href="https://github.com/Seanman519/Babes-LifeStyle-apk/releases/download/v1/neo.apk" download>
+                  <a href="https://github.com/Seanman519/babes-lifestyle/releases/download/v1/babesapk.apk" download>
                     Download App
                   </a>
                   <p className="text-white uppercase"></p>
